@@ -1,0 +1,11 @@
+#myapp:
+#  name: My Application Test
+#  password: ABCD
+#  country: Ethiopia,USA
+#  version: Version One
+#  firstname: TestNameOne
+#  server:
+#    url: Server Url Test;
+#    name: Server Name Test;
+#  lastname: 'TestNameTwo '
+#  username:
